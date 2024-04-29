@@ -72,6 +72,17 @@
       "price": 24,
       "description": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante, perfeitamente equilibrada com queijo derretido e molho de tomate fresco, garantindo uma explosão de sabor em cada mordida.",
       "descriptionCard": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante"
+    },
+
+    {
+      "id": "asd4pm*23",
+      "category": "batata",
+      "name": "Batatinha frita",
+      "portion": "300g",
+      "photo": "https://lh3.googleusercontent.com/pw/AP1GczMJ6JmwcWXznRwC1tYUPgi_9cSegCUMjmGz4fkJS0koMRgpJqt2PGr_QglLzz7BgDRdC11VdNbaZLCogB6u6EIqxDpPXIhQxySBvB0LZpaQi2tbSjTAUiy5OoB3qbhub6dKx-JqUf1P1zEp_FW-rJls1dwyCyTeMWwAXTX8zD-VWMv4o7DuiN0E91LaJkIIAjUgMlP6B_3miKT4U_6loaPEM78sK1j1nCOTylAHRnCWhpmDFnv2sZFOFJEI3hbyraqdire7Sctzu4PoBy4X0VMqTzCqw6pzC86Qx3AdmlsIZyPP8c6d1ks24dvpEjQMzkv7utgmJkVYnL-BWLVwfH4nfsr56bZNcwuG5-naohiSodLB5HFyW5ReOEEy_0-HgLCSzq67qUzprZHj3fQkrQBahbQkM-1I4C_mdqDfRdMmLdQCetEQls0YpeD0YhW3W_Og8jeRnTmHCcoGx8OYo0eEQZI9ZxWyCeunI4mX4hsEfvOnsDHXDcP5h4Zj7v9hKzRoqBihzbc11e3autmR1XDSU_kmVs2Afdpkx3i1RmF1BQdwjz17TtVLuGnyDh8Xa6K9r2B-p3rvasyOc6eAmaFw_GGkBKr9dupTk-5WelHc5_YIg2FD-kg47cRaUw8wDEAlSr0l2XjxHhYswPKuVvnBRm_K-XupHw3W01o9IrsZqGFpNii8sO4rg8yxiDFVw3xtNymFXcZqo8n46E8j4mc63df4Dl7hV1XouTzf7MeFhqHXeW4GQsDGho57TKggbalvbPeOYZAdxnc_aLyA2tAzDpk7Z-2ABqF0jO7l-WCKpQq7N3lHgAHkaQpF2D7G4HUB-UA2jm0gCP1Px-jP_ehel_yqqZeASqc2LmqNJdvq7k5dTZF7hAmHMTEenFgiHDr7cWZ7YDxGocg40ioHr8zNk0X4QutP9AeXDL0Ls8ZmpiJfsLAKP01-3A=w927-h927-s-no-gm?authuser=1",
+      "price": 15,
+      "description": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas delicadamente, oferecendo uma textura irresistível e um sabor deliciosamente satisfatório em cada porção de 300g.",
+      "descriptionCard": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas"
     }
   ]
 }
