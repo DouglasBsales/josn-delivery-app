@@ -11,6 +11,16 @@
     },
 
     {
+      "id": "93Kb*23U",
+      "category": "Burguer",
+      "name": "Cheese Burguer",
+      "photo": "https://lh3.googleusercontent.com/pw/AP1GczOXBt5t3F1w7nIG7wqNvmj1YHCcnKoI95FlDK-KIRSsXWgoR-VOFe3APPTE3X4YUsajZvTxAcrf3C9PELfoD7Dx5DqUXwfx8sOb5-boSi7D6hdecsax_J8mHeS1yaKYNe_0KhcX8vtxm8IDDSzv94NrDX-mmwT9_hk47rAif1SJ23kSXz9LVHmBW7N1dYeNwNrSisviRi0hpulbb3hAhUscS7-LwGStfdbtiDwYizfH2XiPricOcj7BHOJzSlVztJ58zuF--AWk0igucsHtK1ycYTYIBg1J0BethR269qBx4ioYi-pNxrNsn8hckwnyk6ltoq0YORNgT2-MjVaURPrDqUXacgEvFgGgWlefrGqe1A4Rz4uR4KyXxZEDr4KOM7zL2Qmf712JRR81QvSsbyEDbBQRH9Wrrughhhmbu5LtaRrHddcfWXpXsct2SRXHnxVvtOvnaRqPA3aKlC2sOFzT-fo74wMC_OtjikJ49lAvL2WBZwfalDnEldyErFEqacbaAgDweMqo35o5ZwQ0SiPDC0cX3U5JTti9LfUMZSZ0eTwwVLaLI9TrE-dyXWdhzRpFTU_gK8SXOZsCUYK_YpoB8Kd7p1nB96cgrN91UwpfbBUjDBeVXLCcpYjNJUH7nXBPwUjHSWuUeWufp-xFmiR-syS2jdCZZHH6d2tfiexkQt_WRdr-V1yyoQSfyQcxGgSZITTNrNrYEDQ-GLiPwb8zQ0i4hSaN2yUkMYk9dk2QTuSSt40-t8zedUei5WBzqB0qiehSiR7ODN3WqlGu8DqCCCCrqQb7UnSR1M165D_YCeXqkX37KKUDsMpqBL7f__gMAzUSLrQUXIZoswIULYUkbasBXVhF-V5Nz_eJsgeDE5SnHRqMeiI8m4qeL2mGK7fJwlAkaaGG0GFqZGoAsKHacFKVdHOBcyxRXYINlgBbbpEThJpd7_xl=w927-h927-s-no-gm?authuser=1",
+      "price": 15,
+      "description": "Um suculento cheeseburger, perfeitamente grelhado e coberto com queijo derretido, servido em um pão macio e fresco, garantindo uma explosão de sabor em cada mordida.",
+      "descriptionCard": "Um suculento cheeseburger, perfeitamente grelhado e coberto com queijo derretido"
+    },
+
+    {
       "id": "Ga4&sd",
       "category": "Pizza",
       "name": "Pizza calabresa",
