@@ -29,5 +29,27 @@
       "description": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante, perfeitamente equilibrada com queijo derretido e molho de tomate fresco, garantindo uma explosão de sabor em cada mordida.",
       "descriptionCard": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante"
     }
+  ],
+
+  "BestProducts": [
+    {
+      "id": "123Gasd",
+      "category": "Burguer",
+      "name": "hamburguer",
+      "photo": "https://lh3.googleusercontent.com/pw/AP1GczNAzePS88hsqJCeBMWKjAFrC5mZYdHrHdU_uWipq08tQeeo3FPqN6qC3mnIC1Hfg0PQzccSapORqsRLGyzsonq34pksKREbFleM4McWQYLrFTgE4JqgL83b6VXRdRrdgN8xfau_yILNzZP-wUaqQYLikPxSxgsVH0RLpWv41QRnzh1UfQ0NjwNx3_B3-I-80oY0L5naWoOP5Ntzww3j4PYZVncZCFPkcDkJ6ecSubEyMlCvx8yEOjly3h_Vo8Nw45dZ9QIfEUGIZURmRY0sanj_98S_lyxCXDi4u5bn04dofREE_w-80ON-gNE5cIWlUm5n5PsfiJR60UWe-GJa5dpgLlwQgvQ_XaOZUuP25Z5eISA0VW6C4hx6SzOD7aFL38LWOkVmrgYEGm7fNZ3vC8zOGvYLaE1XkYE005NIQw6el1fZnvQrbTPsOT70ODhrAo39J96lC7QdbZiku0KVa3Ckju47CU958dkwROy3gALYy4k7Kuu34eoaxzp47HjIkoGQH2WVktUE2MFdmFQqaaHxfthBxRoZwH6HYCOFVjIbrjK1GCsOdbaaw6ev4Z0VIQGkmfLve6EPNOdibG6Ggd50ShgbBG9tv1JwARMT0Aml9NVXTqux2Ll83UJ98ZtrFg9GLPi3chPVmbj79tvfhO4V1CDLWzSuKRkjXfjC33IEAk5GrSA9yy723VULAP5yF2ayJxo8KULs4IWxPTD_5DPFMbwdqTlQAerGEvdR92iovbLP-RBgzr0iuGh6iM36VI2_J_dO1Mxangn-_9orsQHbvWG9RhtwVHXVVC0BLLuz6uiDk0PXxGuh6Co6EEo31KhJlLVyHDwHkvo6MpfuPGEHtglcS-WhC7aISFQXsuitvnPXQvJbUK1ZqmMD_lsxvhqwMTwrbjF_sYynKRN93x4E_RtxmbWX-NgY7GwOPoetHIi9uHQUHADQog=w927-h927-s-no-gm?authuser=1",
+      "price": 12,
+      "description": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface crocante e molho especial, tudo abraçado por um pão macio e dourado.",
+      "descriptionCard": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface"
+    },
+
+    {
+      "id": "Ga4&sd",
+      "category": "Pizza",
+      "name": "Pizza calabresa",
+      "photo": "https://lh3.googleusercontent.com/pw/AP1GczO_UyMbAAYUAV8RziLN2vQHtGQfKHDMZ-YTt8hQnZX32xG5b6hr0TkkxhziEH3H0a1-xS3QyULJkRkhY0Njg9i0Q0wYr0Of6SmMR1vbVxiJ8mY3nUcB0rpQ4_0cxiO9Cg-YVb0Fk4A4HVC2mI4w3YW9H-aWOmk8XQZ0oNp-RlxjghTZrwxHlkRMoSLD5ipSnWo9mPT_3b2utTAgKaKgTxHnAmPr7JO7i0yolY8qG1RR-pEYgIV7NZni3gLcnS4p13wjIhp7FWDPSHSfuaakcJxhjacDlWhzGuRU8VJNwD_NZ2vAKDY-PskICViQEj74HwDKOQiM4uJjW6BI_R0izOqVhjtlb9id6YPT-CcdL86QJrUTj9ERUU5taXqv22ZYpaFOC8KgBu3EBuHrX54sLQm-M6npuZdejq3dBZPzIa4D4jasNxjnPQ0uCwsOJmIfyCLST1Plk3NWeVXNJm9rp0laQDMn70I43LMjKq95hCS7vAIqknFI-FITBRnRMCs0wCdEdKlPZY-ZJgueh4w3D78dnOzzfKVKCRPH5VO7u7hMblsujmj376Q_-Nw5Ft1WieSsbN6UyzM4e4g_25JVp4bDyNFZ1GI95J9vQGZ8sw43a2AF-no6RRplMFbwQoVI0RxwddzirrUml9hDWan7UG2QC62bF_4GY-vnHNwBTGXNlEj857sb8k4B1iebbLhJb2GiRmUHWeSOCcvb4LSuiyDVH-D2gINMIHWCqcSgCNgVTAjY4YIzR33IMuhB4knrfquV-Oc6OINs1fDvZM9V7tGur8IiL5qUE8rLvpAM8Ptb0CTyBsV9EHI4YxsdXil5bxVfn_6okhluEVZ4wTWTZl_UMBglI-IJW7IS_2cGcAx3FH6dsmRhGCspENmBCyx245m0IVpvPSY3rKABVAt030yga4tRpRMZ6FnTyvrcyTHKvQ-eCz77HECNvw=w927-h927-s-no-gm?authuser=1",
+      "price": 24,
+      "description": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante, perfeitamente equilibrada com queijo derretido e molho de tomate fresco, garantindo uma explosão de sabor em cada mordida.",
+      "descriptionCard": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante"
+    }
   ]
 }
