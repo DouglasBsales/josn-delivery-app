@@ -1,4 +1,37 @@
 {
+  "BestProducts": [
+    {
+      "id": "123Gasd",
+      "category": "Burguer",
+      "name": "hamburguer",
+      "photo": "https://drive.usercontent.google.com/download?id=15CQO99VJd4C7S40vKjJTVjthHVVLJ9wH&authuser=0",
+      "price": 12,
+      "description": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface crocante e molho especial, tudo abraçado por um pão macio e dourado.",
+      "descriptionCard": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface"
+    },
+
+    {
+      "id": "Ga4&sd",
+      "category": "Pizza",
+      "name": "Pizza calabresa",
+      "photo": "https://drive.usercontent.google.com/download?id=1ZXJ9eNGRRsDGLQ0svUIjyah6r_uladsU",
+      "price": 24,
+      "description": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante, perfeitamente equilibrada com queijo derretido e molho de tomate fresco, garantindo uma explosão de sabor em cada mordida.",
+      "descriptionCard": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante"
+    },
+
+    {
+      "id": "asd4pm*23",
+      "category": "batata",
+      "name": "Batata frita",
+      "portion": "300g",
+      "photo": "https://drive.usercontent.google.com/download?id=1T0cGEa0Ay0ZJThIbK7YdH2zKBpiVZUsq",
+      "price": 15,
+      "description": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas delicadamente, oferecendo uma textura irresistível e um sabor deliciosamente satisfatório em cada porção de 300g.",
+      "descriptionCard": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas"
+    }
+  ],
+
   "products": [
     {
       "id": "123Gasd",
@@ -18,6 +51,16 @@
       "price": 15,
       "description": "Um suculento cheeseburger, perfeitamente grelhado e coberto com queijo derretido, servido em um pão macio e fresco, garantindo uma explosão de sabor em cada mordida.",
       "descriptionCard": "Um suculento cheeseburger, perfeitamente grelhado e coberto com queijo"
+    },
+
+    {
+      "id": "Ka81àsd",
+      "category": "Burguer",
+      "name": "Burguer Bacon",
+      "photo": "https://drive.usercontent.google.com/download?id=1mcW73_yuD4Ip9mJR5vvHw5iCBeaQBV3E",
+      "price": 18,
+      "description": "Hambúrguer artesanal, recheado com carne suculenta, queijo derretido e bacon crocante, tudo isso envolto em um pão macio e fresquinho. Uma experiência gastronômica única que vai conquistar seu coração e seu paladar.",
+      "descriptionCard": "Hambúrguer artesanal, recheado com carne suculenta, queijo derretido e bacon"
     },
 
     {
@@ -49,39 +92,6 @@
       "photo": "https://drive.usercontent.google.com/download?id=1T0cGEa0Ay0ZJThIbK7YdH2zKBpiVZUsq",
       "price": 20,
       "description": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas delicadamente, oferecendo uma textura irresistível e um sabor deliciosamente satisfatório em cada porção de 600g.",
-      "descriptionCard": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas"
-    }
-  ],
-
-  "BestProducts": [
-    {
-      "id": "123Gasd",
-      "category": "Burguer",
-      "name": "hamburguer",
-      "photo": "https://drive.usercontent.google.com/download?id=15CQO99VJd4C7S40vKjJTVjthHVVLJ9wH&authuser=0",
-      "price": 12,
-      "description": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface crocante e molho especial, tudo abraçado por um pão macio e dourado.",
-      "descriptionCard": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface"
-    },
-
-    {
-      "id": "Ga4&sd",
-      "category": "Pizza",
-      "name": "Pizza calabresa",
-      "photo": "https://drive.usercontent.google.com/download?id=1ZXJ9eNGRRsDGLQ0svUIjyah6r_uladsU",
-      "price": 24,
-      "description": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante, perfeitamente equilibrada com queijo derretido e molho de tomate fresco, garantindo uma explosão de sabor em cada mordida.",
-      "descriptionCard": "Uma pizza de calabresa coberta com fatias suculentas de calabresa picante"
-    },
-
-    {
-      "id": "asd4pm*23",
-      "category": "batata",
-      "name": "Batata frita",
-      "portion": "300g",
-      "photo": "https://drive.usercontent.google.com/download?id=1T0cGEa0Ay0ZJThIbK7YdH2zKBpiVZUsq",
-      "price": 15,
-      "description": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas delicadamente, oferecendo uma textura irresistível e um sabor deliciosamente satisfatório em cada porção de 300g.",
       "descriptionCard": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas"
     }
   ]
