@@ -144,6 +144,17 @@
       "price": 22,
       "description": "Delicie-se com nossas batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon, uma explosão de sabores em cada mordida. O acompanhamento perfeito para saciar sua vontade de um sabor irresistível, tudo em uma porção generosa de 300g.",
       "descriptionCard": " batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon"
+    },
+
+    {
+      "id": "kjd74hajsbd61534sd",
+      "category": "batata",
+      "name": "Batata cheddar bacon",
+      "portion": "600g",
+      "photo": "https://drive.usercontent.google.com/download?id=1gL8E7J2Wu9_rbEjaP9tmsNfBbMTajAxc",
+      "price": 26,
+      "description": "Delicie-se com nossas batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon, uma explosão de sabores em cada mordida. O acompanhamento perfeito para saciar sua vontade de um sabor irresistível, tudo em uma porção generosa de 600g.",
+      "descriptionCard": " batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon"
     }
   ]
 }
