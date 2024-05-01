@@ -133,6 +133,17 @@
       "price": 20,
       "description": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas delicadamente, oferecendo uma textura irresistível e um sabor deliciosamente satisfatório em cada porção de 600g.",
       "descriptionCard": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas"
+    },
+
+    {
+      "id": "kjd74hajsbdqi176absd",
+      "category": "batata",
+      "name": "Batata cheddar bacon",
+      "portion": "300g",
+      "photo": "https://drive.usercontent.google.com/download?id=1L0K1of-ZkDsI1YBVZebZCdu-rSWqSgTP",
+      "price": 22,
+      "description": "Delicie-se com nossas batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon, uma explosão de sabores em cada mordida. O acompanhamento perfeito para saciar sua vontade de um sabor irresistível, tudo em uma porção generosa de 300g.",
+      "descriptionCard": " batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon"
     }
   ]
 }
