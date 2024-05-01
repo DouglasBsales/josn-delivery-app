@@ -84,6 +84,36 @@
     },
 
     {
+      "id": "çsd5138[=aujdah",
+      "category": "Pizza",
+      "name": "Pizza carne",
+      "photo": "https://drive.usercontent.google.com/download?id=10iZOLSZaXUHFXL51k2SxPmKp1UpaXyNq",
+      "price": 26,
+      "description": "Delicie-se com nossa pizza de carne, uma combinação perfeita de carne moída temperada, cebola caramelizada e queijo derretido sobre nossa massa artesanal, coberta com molho de tomate caseiro. Uma explosão de sabores que vai conquistar seu paladar.",
+      "descriptionCard": "Uma pizza de carne, uma combinação perfeita de carne temperada cebola e "
+    },
+
+    {
+      "id": "734mhsd95723",
+      "category": "Pizza",
+      "name": "Pizza mussarela",
+      "photo": "https://drive.usercontent.google.com/download?id=1AWXmG1emHcKQ7mWWoZ35QAAJS90nOGHn",
+      "price": 20,
+      "description": "Desfrute da autêntica pizza de mussarela, com queijo muçarela derretido sobre uma base de molho de tomate fresco, tudo assado em nossa massa crocante. Um clássico que nunca decepciona.",
+      "descriptionCard": "Autêntica pizza de mussarela, com queijo muçarela derretido sobre uma base de "
+    },
+
+    {
+      "id": "k1Rdm9Had",
+      "category": "Pizza",
+      "name": "Pizza doce",
+      "photo": "https://drive.usercontent.google.com/download?id=11-IAbBmfbaEbskxr6dTz3JKbx7GgEKoh",
+      "price": 20,
+      "description": "Delicie-se com nossa irresistível pizza doce de chocolate e morango, onde o chocolate derretido se combina harmoniosamente com fatias frescas de morango sobre nossa massa macia e crocante. Uma experiência indulgente que vai satisfazer seus desejos mais doces!",
+      "descriptionCard": "Pizza doce de chocolate e morango, onde o chocolate derretido se combina "
+    },
+
+    {
       "id": "asd4pm*23",
       "category": "batata",
       "name": "Batata frita",
