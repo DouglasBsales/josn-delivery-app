@@ -29,6 +29,16 @@
       "price": 15,
       "description": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas delicadamente, oferecendo uma textura irresistível e um sabor deliciosamente satisfatório em cada porção de 300g.",
       "descriptionCard": "Batatas fritas douradas e crocantes, preparadas com cuidado e temperadas"
+    },
+
+    {
+      "id": "364tna81nsad",
+      "category": "refrigerante",
+      "name": "Coca-cola",
+      "photo": "https://drive.usercontent.google.com/download?id=1ByNDiBOYXG9gYiu7jdwFVtvi2bSM_13e",
+      "price": 6,
+      "description": "A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu sabor refrescante e inconfundível. Com uma mistura secreta de ingredientes, oferece uma experiência única a cada gole, perfeita para acompanhar momentos de celebração e compartilhamento.",
+      "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu"
     }
   ],
 
@@ -164,7 +174,7 @@
       "photo": "https://drive.usercontent.google.com/download?id=1ByNDiBOYXG9gYiu7jdwFVtvi2bSM_13e",
       "price": 6,
       "description": "A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu sabor refrescante e inconfundível. Com uma mistura secreta de ingredientes, oferece uma experiência única a cada gole, perfeita para acompanhar momentos de celebração e compartilhamento.",
-      "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu sabor"
+      "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu"
     }
   ]
 }
