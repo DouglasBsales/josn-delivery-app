@@ -3,7 +3,7 @@
     {
       "id": "123Gasd",
       "category": "Burguer",
-      "name": "Hamburguer",
+      "name": "hamburguer",
       "photo": "https://drive.usercontent.google.com/download?id=15CQO99VJd4C7S40vKjJTVjthHVVLJ9wH&authuser=0",
       "price": 12,
       "description": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface crocante e molho especial, tudo abraçado por um pão macio e dourado.",
@@ -36,7 +36,7 @@
     {
       "id": "123Gasd",
       "category": "Burguer",
-      "name": "Hamburguer",
+      "name": "hamburguer",
       "photo": "https://drive.usercontent.google.com/download?id=15CQO99VJd4C7S40vKjJTVjthHVVLJ9wH&authuser=0",
       "price": 12,
       "description": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface crocante e molho especial, tudo abraçado por um pão macio e dourado.",
@@ -57,7 +57,7 @@
       "id": "Ka81àsd",
       "category": "Burguer",
       "name": "Burguer Bacon",
-      "photo": "https://drive.usercontent.google.com/download?id=1rLxK-gBQwVCyqgvHu6skQjG1WwUmbosl",
+      "photo": "https://drive.usercontent.google.com/download?id=1p3cd3Z35iJZnuTNyiNgf6Rf8o7iQK7ym",
       "price": 18,
       "description": "Hambúrguer artesanal, recheado com carne suculenta, queijo derretido e bacon crocante, tudo isso envolto em um pão macio e fresquinho. Uma experiência gastronômica única que vai conquistar seu coração e seu paladar.",
       "descriptionCard": "Hambúrguer artesanal, recheado com carne suculenta, queijo derretido e bacon"
@@ -67,7 +67,7 @@
       "id": "6Hb8M<14",
       "category": "Burguer",
       "name": "Burguer Mexicano",
-      "photo": "https://drive.usercontent.google.com/download?id=1EAlwGyERcfIP8Vd1kHGqpcX5nfiXHcwD",
+      "photo": "https://drive.usercontent.google.com/download?id=1NxXMUE17IHxBh103CTBF6zpWIQmWYz6b",
       "price": 22,
       "description": "Delicie-se com nosso hambúrguer picante mexicano, com carne suculenta, pimentões jalapeños, queijo derretido e uma explosão de sabores autênticos do México, tudo isso entre dois pães macios. Uma experiência de sabor que vai incendiar seus sentidos!",
       "descriptionCard": "Hambúrguer picante mexicano, com carne suculenta, pimentões"
@@ -87,7 +87,7 @@
       "id": "çsd5138[=aujdah",
       "category": "Pizza",
       "name": "Pizza carne",
-      "photo": "https://drive.usercontent.google.com/download?id=1hodC9_Q65iQrdjpGeLedYP8iLu3VYpMr",
+      "photo": "https://drive.usercontent.google.com/download?id=10iZOLSZaXUHFXL51k2SxPmKp1UpaXyNq",
       "price": 26,
       "description": "Delicie-se com nossa pizza de carne, uma combinação perfeita de carne moída temperada, cebola caramelizada e queijo derretido sobre nossa massa artesanal, coberta com molho de tomate caseiro. Uma explosão de sabores que vai conquistar seu paladar.",
       "descriptionCard": "Uma pizza de carne, uma combinação perfeita de carne temperada cebola e "
@@ -97,7 +97,7 @@
       "id": "734mhsd95723",
       "category": "Pizza",
       "name": "Pizza mussarela",
-      "photo": "https://drive.usercontent.google.com/download?id=14nNTx8no_RKAnmaXhXfxOrMykge_JcgY",
+      "photo": "https://drive.usercontent.google.com/download?id=1AWXmG1emHcKQ7mWWoZ35QAAJS90nOGHn",
       "price": 20,
       "description": "Desfrute da autêntica pizza de mussarela, com queijo muçarela derretido sobre uma base de molho de tomate fresco, tudo assado em nossa massa crocante. Um clássico que nunca decepciona.",
       "descriptionCard": "Autêntica pizza de mussarela, com queijo muçarela derretido sobre uma base"
@@ -107,7 +107,7 @@
       "id": "k1Rdm9Had",
       "category": "Pizza",
       "name": "Pizza doce",
-      "photo": "https://drive.usercontent.google.com/download?id=1sr1ruChYdwXkluu1lN3An0fy1MJXdaVd",
+      "photo": "https://drive.usercontent.google.com/download?id=11-IAbBmfbaEbskxr6dTz3JKbx7GgEKoh",
       "price": 20,
       "description": "Delicie-se com nossa irresistível pizza doce de chocolate e morango, onde o chocolate derretido se combina harmoniosamente com fatias frescas de morango sobre nossa massa macia e crocante. Uma experiência indulgente que vai satisfazer seus desejos mais doces!",
       "descriptionCard": "Pizza doce de chocolate e morango, onde o chocolate derretido se combina "
@@ -155,6 +155,16 @@
       "price": 26,
       "description": "Delicie-se com nossas batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon, uma explosão de sabores em cada mordida. O acompanhamento perfeito para saciar sua vontade de um sabor irresistível, tudo em uma porção generosa de 600g.",
       "descriptionCard": " batatas fritas cobertas com cheddar cremoso e pedaços crocantes de bacon"
+    },
+
+    {
+      "id": "364tna81nsad",
+      "category": "refrigerante",
+      "name": "Coca-cola",
+      "photo": "https://drive.usercontent.google.com/download?id=1ByNDiBOYXG9gYiu7jdwFVtvi2bSM_13e",
+      "price": 6,
+      "description": "A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu sabor refrescante e inconfundível. Com uma mistura secreta de ingredientes, oferece uma experiência única a cada gole, perfeita para acompanhar momentos de celebração e compartilhamento.",
+      "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu sabor"
     }
   ]
 }
