@@ -177,9 +177,9 @@
       "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu"
     },
     {
-      "id": "364tna81nsad",
+      "id": "364tna81nsad765",
       "category": "refrigerante",
-      "name": "Coca-cola 1,5L",
+      "name": "Coca-cola",
       "ml": "1000ml",
       "photo": "https://drive.usercontent.google.com/download?id=1XTtW87z455koJfUGNWqz8qxlrVJmLlc-",
       "price": 8.50,
@@ -187,7 +187,7 @@
       "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu"
     },
     {
-      "id": "jna761lkanmdlkhj1*&23",
+      "id": "jna761lkan625",
       "category": "refrigerante",
       "name": "Antarctica",
       "ml": "350ml",
@@ -199,7 +199,7 @@
     {
       "id": "jna761lkanmdlkhj1*&23",
       "category": "refrigerante",
-      "name": "Antarctica 1L",
+      "name": "Antarctica",
       "ml": "1000ml",
       "photo": "https://drive.usercontent.google.com/download?id=10vO0i8VCRM5vFVJf2A5KQeF8ObMpCVJd",
       "price": 7.50,
