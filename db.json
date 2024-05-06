@@ -171,10 +171,22 @@
       "id": "364tna81nsad",
       "category": "refrigerante",
       "name": "Coca-cola",
+      "ml": "350",
       "photo": "https://drive.usercontent.google.com/download?id=1ByNDiBOYXG9gYiu7jdwFVtvi2bSM_13e",
       "price": 6,
       "description": "A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu sabor refrescante e inconfundível. Com uma mistura secreta de ingredientes, oferece uma experiência única a cada gole, perfeita para acompanhar momentos de celebração e compartilhamento.",
       "descriptionCard": " A Coca-Cola é a bebida gaseificada mais popular do mundo, conhecida por seu"
+    },
+
+    {
+      "id": "jna761lkanmdlkhj1*&23",
+      "category": "refrigerante",
+      "name": "Antarctica",
+      "ml": "350",
+      "photo": "https://drive.usercontent.google.com/download?id=1Cp_afRJ32ak0nYlC73WsrsR1QycyQOr8",
+      "price": 5,
+      "description": "A refrescante bebida brasileira, feita com guaraná natural da Amazônia. Sua mistura única oferece um sabor equilibrado entre doce e levemente amargo, perfeito para momentos de descontração e energia. Experimente o sabor autêntico do Brasil em cada gole.",
+      "descriptionCard": "A refrescante bebida brasileira, feita com guaraná natural da Amazônia"
     }
   ]
 }
