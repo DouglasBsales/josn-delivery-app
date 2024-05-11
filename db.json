@@ -22,7 +22,7 @@
 
     {
       "id": "asd4pm*23",
-      "category": "batata",
+      "category": "Batata",
       "name": "Batata frita",
       "portion": "300g",
       "photo": "https://drive.usercontent.google.com/download?id=1T0cGEa0Ay0ZJThIbK7YdH2zKBpiVZUsq",
@@ -33,7 +33,7 @@
 
     {
       "id": "364tna81nsad",
-      "category": "refrigerante",
+      "category": "Refrigerante",
       "name": "Coca-cola",
       "ml": "350ml",
       "photo": "https://drive.usercontent.google.com/download?id=1ByNDiBOYXG9gYiu7jdwFVtvi2bSM_13e",
@@ -47,7 +47,7 @@
     {
       "id": "123Gasd",
       "category": "Burguer",
-      "name": "hamburguer",
+      "name": "Hamburguer",
       "photo": "https://drive.usercontent.google.com/download?id=15CQO99VJd4C7S40vKjJTVjthHVVLJ9wH&authuser=0",
       "price": 12,
       "description": "Um hambúrguer simples com carne suculenta grelhada, queijo derretido, alface crocante e molho especial, tudo abraçado por um pão macio e dourado.",
@@ -126,7 +126,7 @@
 
     {
       "id": "asd4pm*23",
-      "category": "batata",
+      "category": "Batata",
       "name": "Batata frita",
       "portion": "300g",
       "photo": "https://drive.usercontent.google.com/download?id=1T0cGEa0Ay0ZJThIbK7YdH2zKBpiVZUsq",
@@ -137,7 +137,7 @@
 
     {
       "id": "k$290*",
-      "category": "batata",
+      "category": "Batata",
       "name": "Batata frita",
       "portion": "600g",
       "photo": "https://drive.usercontent.google.com/download?id=1T0cGEa0Ay0ZJThIbK7YdH2zKBpiVZUsq",
@@ -148,7 +148,7 @@
 
     {
       "id": "kjd74hajsbdqi176absd",
-      "category": "batata",
+      "category": "Batata",
       "name": "Batata cheddar bacon",
       "portion": "300g",
       "photo": "https://drive.usercontent.google.com/download?id=1gL8E7J2Wu9_rbEjaP9tmsNfBbMTajAxc",
@@ -159,7 +159,7 @@
 
     {
       "id": "kjd74hajsbd61534sd",
-      "category": "batata",
+      "category": "Batata",
       "name": "Batata cheddar bacon",
       "portion": "600g",
       "photo": "https://drive.usercontent.google.com/download?id=1gL8E7J2Wu9_rbEjaP9tmsNfBbMTajAxc",
@@ -169,7 +169,7 @@
     },
     {
       "id": "364tna81nsad",
-      "category": "refrigerante",
+      "category": "Refrigerante",
       "name": "Coca-cola",
       "ml": "350ml",
       "photo": "https://drive.usercontent.google.com/download?id=1ByNDiBOYXG9gYiu7jdwFVtvi2bSM_13e",
@@ -179,7 +179,7 @@
     },
     {
       "id": "364tna81nsad765",
-      "category": "refrigerante",
+      "category": "Refrigerante",
       "name": "Coca-cola",
       "ml": "1000ml",
       "photo": "https://drive.usercontent.google.com/download?id=1XTtW87z455koJfUGNWqz8qxlrVJmLlc-",
@@ -189,7 +189,7 @@
     },
     {
       "id": "jna761lkan625",
-      "category": "refrigerante",
+      "category": "Refrigerante",
       "name": "Antarctica",
       "ml": "350ml",
       "photo": "https://drive.usercontent.google.com/download?id=1Cp_afRJ32ak0nYlC73WsrsR1QycyQOr8",
@@ -199,7 +199,7 @@
     },
     {
       "id": "jna761lkanmdlkhj1*&23",
-      "category": "refrigerante",
+      "category": "Refrigerante",
       "name": "Antarctica",
       "ml": "1000ml",
       "photo": "https://drive.usercontent.google.com/download?id=10vO0i8VCRM5vFVJf2A5KQeF8ObMpCVJd",
@@ -209,7 +209,7 @@
     },
     {
       "id": "324Ha17Oadk",
-      "category": "agua",
+      "category": "Agua",
       "name": "Água",
       "ml": "500ml",
       "photo": "https://drive.usercontent.google.com/download?id=1mkxdUoAKNOaDVKq0KUOu8yFOqnuGIrY9",
@@ -219,7 +219,7 @@
     },
     {
       "id": "çlpp9884bnasd",
-      "category": "agua",
+      "category": "Agua",
       "name": "Água",
       "ml": "1500ml",
       "photo": "https://drive.usercontent.google.com/download?id=1eBFmlYFr7nG2q7eeki5iocqW1_vnsUii",
